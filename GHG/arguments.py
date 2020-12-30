@@ -1,0 +1,10 @@
+window_size = 7
+n_feature=8
+output_neurons=2
+path1 = "/Users/bpc/6º Ano-2º Sem./Tese/Coding/Simple_1_11_2020_logs/"
+path2 = "/Users/bpc/6º Ano-2º Sem./Tese/Coding/LSTM_4_11_2020_logs/"
+path3 = "/Users/bpc/6º Ano-2º Sem./Tese/Coding/GRU_4_11_2020_logs/"
+path4 = "/Users/bpc/6º Ano-2º Sem./Tese/Coding/conv_7_11_2020_logs/"
+path5 = "/Users/bpc/6º Ano-2º Sem./Tese/Coding/conv1D_LSTM_7_11_2020_logs/"
+path6 = "/Users/bpc/6º Ano-2º Sem./Tese/Coding/conv1D_GRU_7_11_2020_logs/"
+paths = [path1, path2, path3, path4, path5, path6]
